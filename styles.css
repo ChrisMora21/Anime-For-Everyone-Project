@@ -1,0 +1,41 @@
+body {
+    background-color: #336699;
+    border: 8px ridge #1a1a1a;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Anime {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+    border: 8px ridge #1a1a1a;
+    background-color: #a6a6a6;
+    color: #000000;
+    text-shadow: 2px 2px #336699;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 2px;
+    background-color: #a6a6a6;
+    border: 5px ridge #1a1a1a;
+}
+
+.menu1 {
+    margin: 5px;
+    padding: 5px;
+    border: 5px ridge #1a1a1a;
+    background-color: #336699;
+}
+
+img {
+    height: 150px;
+    width: 90px;
+    padding: 2px;
+    margin: 2px;
+    border: 2px outset black;
+}
